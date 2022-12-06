@@ -49,3 +49,28 @@
 
 /*------------------Landing-------*/
 
+.main {
+    
+}
+
+.main h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+    color: #FAD4D8;
+}
+
+.main h1 {
+    font-family: 'Jura', sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+    color: whitesmoke;
+}
+
+.main h1 span {
+    font-family: 'Jura', sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+    color: #75abbc;
+}
+
