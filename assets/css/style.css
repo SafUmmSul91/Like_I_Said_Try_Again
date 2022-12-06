@@ -1,7 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/*------------------------------General*/
+/* #071013 - Rich Black
+    #FAD4D8 - Pale Pink
+    #B8C0CA - Silver Sand
+    #75ABBC - Pewter Blue */
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
+
+/*-----------------------------------Nav*/
+
+.navbar {
+    background-color: #071013;
+}
+
+.nav-link {
+    color: #B8C0CA;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Jura', sans-serif;
+}
+
+.nav-link:hover {
+    color: #FAD4D8;
+    transition: ease-in 0.7s;
+}
+
+.navbar-brand {
+    color: #B8C0CA;
+    font-size: 1.25rem;
+    font-weight: 800;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Jura', sans-serif;
+}
+
+.navbar-brand:hover {
+    color: #FAD4D8;
+    transition: ease-in 0.7s;
+}
+
+/*------------------Landing-------*/
+
