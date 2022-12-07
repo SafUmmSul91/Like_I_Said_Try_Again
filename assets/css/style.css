@@ -93,13 +93,79 @@
     color: #75abbc;
 }
 
-.progress {
-    background-color: #B8C0CA;
-    justify-content: flex-start;
-    border-radius: 50px;
-    align-items: center;
-    position: relative;
-    display: flex;
-    height: 25px;
-    width: 100%;
+.btn1 {
+    height: 40px;
+    width: 145px;
+    outline: none;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    background-color: #FAD4D8;
+    color: #071013;
+    cursor: pointer;
+    transition: ease-out 0.7s;
+}
+
+.btn1:hover {
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid whitesmoke;
+    transition: 0.7s;
+}
+
+.btn2 {
+    height: 40px;
+    width: 145px;
+    outline: none;
+    border: 1px solid #FAD4D8;
+    border-radius: 0px 10px 10px 0px;
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+.btn2:hover {
+    border-radius: 5px;
+    background-color: #FAD4D8;
+    color: black;
+    border: 1px solid whitesmoke;
+    transition: 0.7s;
+}
+
+/*---------------------------Services--*/
+.services h1 {
+    font-family: 'Jura', sans-serif;
+    text-shadow: #FAD4D8;
+    font-weight: 800;
+    font-size: 3rem;
+    text-shadow: 2px 3px 3px #75abbc;
+}
+
+.card {
+    border: none;
+    outline: none;
+    -webkit-box-shadow: 10px 10px 16px 4px #75ABBC;
+    -moz-box-shadow: 10px 10px 16px 4px #75ABBC;
+    box-shadow: 10px 10px 16px 4px #75ABBC;
+}
+
+.card p {
+    color: #75abbc;
+}
+
+.circle {
+    height: 70px;
+    width: 70px;
+    background-color: #d4d9e1;
+    color: #071013;
+    padding: 12px;
+    font-size: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.card:hover .circle {
+    background-color: #071013;
+    color: #75abbc;
+    transition: 0.5s;
 }
