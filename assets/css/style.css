@@ -49,9 +49,6 @@
 
 /*------------------Landing-------*/
 
-.main {
-    
-}
 
 .main h3 {
     font-family: 'Montserrat', sans-serif;
@@ -168,4 +165,23 @@
     background-color: #071013;
     color: #75abbc;
     transition: 0.5s;
+}
+
+/*------------Portfolio*/
+
+.portfolio h1 {
+    font-family: 'Jura', sans-serif;
+    text-shadow: #FAD4D8;
+    font-weight: 800;
+    font-size: 3rem;
+    text-shadow: 2px 3px 3px #FAD4D8;
+}
+.control ul li{
+    list-style: none;
+    background-color: #071013;
+    padding: 5px 15px;
+    color: #B8C0CA;
+    display: inline-block;
+    cursor: pointer;
+    letter-spacing: 2px;
 }
