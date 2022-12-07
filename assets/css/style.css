@@ -72,8 +72,7 @@
 }
 
 /*---------------------------Main About*/
-/* <img src='https://avataaars.io/?avatarStyle=Circle&topType=Hijab&accessoriesType=Blank&hatColor=Black&clotheType=Hoodie&clotheColor=PastelBlue&eyeType=Side&eyebrowType=UpDownNatural&mouthType=Twinkle&skinColor=Light'
-/> - vector avatar */
+
 
 .about {
     font-family: 'Montserrat', sans-serif;
@@ -82,8 +81,8 @@
 .about h1 {
     font-family: 'Jura', sans-serif;
     text-shadow: #FAD4D8;
-    font-weight: 800;
-    font-size: 3rem;
+    font-weight: 900;
+    font-size: 4rem;
     text-shadow: 2px 3px 3px #FAD4D8;
 }
 .about p span {
@@ -132,8 +131,8 @@
 .services h1 {
     font-family: 'Jura', sans-serif;
     text-shadow: #FAD4D8;
-    font-weight: 800;
-    font-size: 3rem;
+    font-weight: 900;
+    font-size: 4rem;
     text-shadow: 2px 3px 3px #75abbc;
 }
 
@@ -161,10 +160,10 @@
     margin-bottom: 20px;
 }
 
-.card:hover .circle {
+.card:hover {
     background-color: #071013;
-    color: #75abbc;
-    transition: 0.5s;
+    color: whitesmoke;
+    transition: 1s;
 }
 
 /*------------Portfolio*/
@@ -172,11 +171,25 @@
 .portfolio h1 {
     font-family: 'Jura', sans-serif;
     text-shadow: #FAD4D8;
-    font-weight: 800;
-    font-size: 3rem;
+    font-weight: 900;
+    font-size: 4rem;
     text-shadow: 2px 3px 3px #FAD4D8;
     transition: ease-in-out;
     transition: 0.5s;
 }
 
 /*------------contact*/
+
+.contact h1 {
+    font-family: 'Jura', sans-serif;
+    text-shadow: #FAD4D8;
+    font-weight: 900;
+    font-size: 4rem;
+    text-shadow: 2px 3px 3px #FAD4D8;
+}
+
+.contact:hover .circle{
+    background-color: #071013;
+    color: whitesmoke;
+    transition: 1s;
+}
