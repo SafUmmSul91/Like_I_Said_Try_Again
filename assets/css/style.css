@@ -85,44 +85,6 @@
     color: #75abbc;
 }
 
-.btn1 {
-    height: 40px;
-    width: 145px;
-    outline: none;
-    border: none;
-    border-radius: 10px 0px 0px 10px;
-    background-color: #FAD4D8;
-    color: #071013;
-    cursor: pointer;
-    transition: ease-out 0.7s;
-}
-
-.btn1:hover {
-    border-radius: 5px;
-    background-color: transparent;
-    color: white;
-    border: 1px solid whitesmoke;
-    transition: 0.7s;
-}
-
-.btn2 {
-    height: 40px;
-    width: 145px;
-    outline: none;
-    border: 1px solid #FAD4D8;
-    border-radius: 0px 10px 10px 0px;
-    background-color: transparent;
-    color: whitesmoke;
-}
-
-.btn2:hover {
-    border-radius: 5px;
-    background-color: #FAD4D8;
-    color: black;
-    border: 1px solid whitesmoke;
-    transition: 0.7s;
-}
-
 /*---------------------------Services--*/
 .services h1 {
     font-family: 'Jura', sans-serif;
@@ -147,11 +109,11 @@
 .circle {
     height: 70px;
     width: 70px;
+    border-radius: 50%;
     background-color: #d4d9e1;
     color: #071013;
     padding: 12px;
     font-size: 30px;
-    border-radius: 50%;
     display: inline-block;
     margin-bottom: 20px;
 }
