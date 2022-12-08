@@ -28,10 +28,6 @@
     font-family: 'Jura', sans-serif;
 }
 
-.nav-link:hover {
-    color: #FAD4D8;
-    transition: ease-in 0.7s;
-}
 
 .navbar-brand {
     color: #B8C0CA;
@@ -192,4 +188,15 @@
     background-color: #071013;
     color: whitesmoke;
     transition: 1s;
+}
+
+/*---------Footer--*/
+
+footer {
+    min-height: 180px;
+    font-family: 'Jura', sans-serif;
+}
+
+.social-links {
+    padding-bottom: 15px;
 }
