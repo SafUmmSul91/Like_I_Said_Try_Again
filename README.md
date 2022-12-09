@@ -19,10 +19,10 @@ As a Frequent User, I want to check to see if there are any newly added projects
 Colour Scheme
 
 The "Brand" Colours I chose are:
-*RICH BLACK FOGRA 29 #071013
-*SILVER SAND #B8C0CA
-*PEWTER BLUE #75ABBC
-*PALE PINK #FAD4D8
+* RICH BLACK FOGRA 29 #071013
+* SILVER SAND #B8C0CA
+* PEWTER BLUE #75ABBC
+* PALE PINK #FAD4D8
 
 and where found using [Coolers](https://coolors.co/)
 I chose these colours because I thought them modern and fun espcially paired with the font.
@@ -36,7 +36,7 @@ Monterrat being used for the main body of text and Jura used for Headings, Subhe
 # Imagery
 
 I didn't use much imigary in this project, it is quite minimal and straight forward.
-The Here Image is the SRM logo that I created using [camva](https://canva.com) it is simple but effective.
+The Here Image is the SRM logo that I created using [canva](https://canva.com) it is simple but effective.
 The Avatar of the woman in headscarf I also found on [canva](https://canva.com) and edited it to suit the colour scheme.
 
 Wireframes - 
