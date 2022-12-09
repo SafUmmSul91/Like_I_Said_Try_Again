@@ -164,6 +164,8 @@ On about page the text elongates and buttons are pushed together.
 
 * Canva used to create leaflets and graphics used in portfolio  page and for Hero image and Avatar.
 
+* Youtube: helping me through bugs and responsiveness issues
+
 * Mentor D.Vlaanderen for giving me tips and spotting typo's last minute
 
 * Code Institute:
