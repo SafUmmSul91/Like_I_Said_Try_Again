@@ -166,7 +166,9 @@ On about page the text elongates and buttons are pushed together.
 
 * Mentor D.Vlaanderen for giving me tips and spotting typo's last minute
 
-* Code Institute for their support and for giving me a much appreciated and needed extention.
+* Code Institute:
+1. for their support and for giving me a much appreciated and needed extention.
+2. Sample C.V. 
 
 
 
