@@ -1,5 +1,5 @@
 # Milestone Project - Portfolio Website
-View the live project here.[https://github.com/SafUmmSul91/Like_I_Said_Try_Again.git]
+View the live project [here](https://safummsul91.github.io/Like_I_Said_Try_Again/)
 
 This is a Portfolio website I created for my Milestone Project with Code Institute. It is mostly responsive and easy to navigate on different devices.
 
@@ -90,6 +90,85 @@ fixed bugs in contact form by correcting typo in "id" and correcting the "for" f
 
 W3C CSS Validator:
  
+Testing User Stories from UX section
+
+Dev tools - Chrome Lighthouse - Results - Run from incognito - Performance in the green
+
+| Action    | Behaviour          | Success? |
+| ------------- |:-------------:| -----:|
+| click logo in Navbar| move to designated pages| Y |
+| click C.V. link in Navbar| open seperate page with pdf C.V. dowload| Y |
+| click buttons in index.html | move to about.html| Y |
+| click GET IN TOUCH button in about.html | move to contact section| Y |
+| click C.V. button in about.html | open seperate page with pdf C.V. dowload| Y |
+| check social icons| leave and go to social website profile     |   Y|
+| click submit without filling form | trigger validations|    Y|
+| check each page/section is responsive| change to fit different screen resolutions|    Y|
+
+##To Deploy
+1.	Log into GitHub
+2.	From repositories select Like_I_Said_Try_again
+3.	from the menu, select "settings".
+4.	Go to the menu on the left, in Code and automation, Select "Pages"
+5.	Where it says "Build and Deployment" select the drop-down menu under "Source" and select "Deploy from a branch"
+6.	under "Branch", use the None or Branch to select a publishing source
+7.	Save. Refresh and go back to "Pages" to find deployed website link.
+
+##To run locally:
+1.	Use Google Chrome 
+2.	Create/Sign in to GitHub account. 
+3.	install GitPod Browser extensions for Chrome and then restart browser.
+4.	Log into Gitpod
+5.	Go to the Github respository and click the green "Gitpod" button on the right. 
+
+## First-Time Visitor Goals
+As a First Time Visitor, I want to easily understand what the site is and learn more about the owner of the portfolio.
+
+Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
+The text on the landing page work with the hero image and call to action buttons invite the user to fiind out more.
+The user can click the call to action buttons or use the Navbar, both will go to the same place, to learn more from the website.
+As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+The C.V. is easy to both read and download
+
+The site has been designed to be fluid and never to entrap the user. 
+The Nav bar is found at the top pf each page and each link describes what the page they will be clearly.
+There is a contact form at the end of each page encouring user to get in touch.
+On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+Small simple social media links are found down first on Lnading page and then in footer of each page should user wish to find out more.
+
+## Returning Visitor Goals
+As a Returning Visitor, I want to find the best way to get in contact with the owner with any questions I may have.
+The navigation bar clearly highlights the "Contact" Page.
+Here they can fill out the form on the page or use the contact information provided.
+They can message the owner on their social media.
+The footer contains links to the organisations Github, Pinterest and Instagram.
+Social links will open in a seperate tab so the user doesnt loose track of where they were on the website.
+
+As a Returning Visitor, I want to find the C.V. option to download if need be.
+
+# Further Testing
+The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+The website was viewed on a variety of devices such as Desktop, Laptop, Samsung Note 20, Samsung 20Fe.
+Tests work done on each link to make sure they were linking correctly.
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. - They commented that the layout could be better on the about page in smaller resolutions.
+
+## Known Bugs
+On some mobile devices the text on the Landing page is out of alignment due to font size..
+A white gap can be seen under Hero image.
+On about page the text elongates and buttons are pushed together.
+
+
+# CREDITS & Acknowledments
+
+*Bootstrap4: Bootstrap Library used throughout the project.
+
+*Canva used to create leaflets and graphics used in portfolio  page and for Hero image and Avatar.
+
+*Mentor D.Vlaanderen for giving me tips and spotting typo's last minute
+
+*Code Institute for giving me an extention.
+
+
 
 
 
