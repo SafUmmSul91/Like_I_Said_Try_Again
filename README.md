@@ -43,44 +43,44 @@ Wireframes -
 
 # Features:
 
-*Responsive on all device sizes
-*Interactive elements
+* Responsive on all device sizes
+* Interactive elements
 
 # Languages Used:
 
-*HTML5
-*CSS3
+* HTML5
+* CSS3
 
 # Frameworks, Programs and Libraries used:
 
-###Balsamiq: 
+### Balsamiq: 
 Balsamiq was used to create the wireframes during the design process.
 
-###Git :
+### Git :
 was used to commit to Git and Push to GitHub.
 
-###GitHub: 
+### GitHub: 
 GitHub is used to store the projects code after being pushed from Git.
 
-###Font Awesome: 
+### Font Awesome: 
 Font Awesome was used to add icons on all pages throughout.
 
-###Google Fonts: 
+### Google Fonts: 
 Google fonts were used to import the 'Montserrat' and 'Jera' font into the style.css file used for the whole website.
 
-###CANVA: 
+### CANVA: 
 CANVA was used to create the logo, resizing images and editing photos for the website.
 
-###Bootstrap 4.4.1: 
+### Bootstrap 4.4.1: 
 Bootstrap was used to help with responsiveness and styling.
 
-###jQuery:
+### jQuery:
 jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 
-#Testing
+# Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no errors in the project.
 
-###W3C Markup Validator: All errors fixed.
+### W3C Markup Validator: All errors fixed.
 
 fixed bug on img and buttons. img required no spaces in the name. 
 buttons need href to be removed and replaced with <button onclick="location.href='http://www.example.com'" type="button"> www.example.com</button> solution for button found via stackoverflow.com
@@ -160,13 +160,13 @@ On about page the text elongates and buttons are pushed together.
 
 # CREDITS & Acknowledments
 
-*Bootstrap4: Bootstrap Library used throughout the project.
+* Bootstrap4: Bootstrap Library used throughout the project.
 
-*Canva used to create leaflets and graphics used in portfolio  page and for Hero image and Avatar.
+* Canva used to create leaflets and graphics used in portfolio  page and for Hero image and Avatar.
 
-*Mentor D.Vlaanderen for giving me tips and spotting typo's last minute
+* Mentor D.Vlaanderen for giving me tips and spotting typo's last minute
 
-*Code Institute for giving me an extention.
+* Code Institute for their support and for giving me a much appreciated and needed extention.
 
 
 
