@@ -147,15 +147,19 @@ Social links will open in a seperate tab so the user doesnt loose track of where
 As a Returning Visitor, I want to find the C.V. option to download if need be.
 
 # Further Testing
-The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, Samsung Note 20, Samsung 20Fe.
-Tests work done on each link to make sure they were linking correctly.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. - They commented that the layout could be better on the about page in smaller resolutions.
+* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge.
+* The website was viewed on a variety of devices such as Desktop, Laptop, Samsung Note 20, Samsung 20Fe, Iphone 12.
+* Tests work done on each link to make sure they were linking correctly.
+* Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. - They commented that the layout could be better on the about page in smaller resolutions and there could be more "effects" (transitions).
+
+I did not take full time, effort or strict care when making this website and I believe it shows
 
 ## Known Bugs
-On some mobile devices the text on the Landing page is out of alignment due to font size..
-A white gap can be seen under Hero image.
-On about page the text elongates and buttons are pushed together.
+* On some mobile devices the text on the Landing page is out of alignment.
+* A white gap can be seen under Hero image.
+* Background doesn't cover full page - I didn't adjust width/height properly.
+* On about page and home page the text elongates and buttons are pushed together.
+* Social Icons did not take on styling.
 
 
 # CREDITS & Acknowledments
@@ -164,13 +168,16 @@ On about page the text elongates and buttons are pushed together.
 
 * Canva used to create leaflets and graphics used in portfolio  page and for Hero image and Avatar.
 
-* Youtube: helping me through bugs and responsiveness issues
+* Youtube: helping me through bugs, responsiveness and styling options.
+
+* Stack Overflow: find out how to use gradients, help with positioning of sections especially Landing Hero Image.
 
 * Mentor D.Vlaanderen for giving me tips and spotting typo's last minute
 
 * Code Institute:
 1. for their support and for giving me a much appreciated and needed extention.
-2. Sample C.V. 
+2. I used the sample Sample C.V. from the Resume Project.
+3. I used the previous videos in the course to help me create the form, footer and Nav alongside Bootstrap.
 
 
 
